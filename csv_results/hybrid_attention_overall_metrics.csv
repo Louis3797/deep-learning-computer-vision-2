@@ -1,0 +1,2 @@
+config_name,accuracy,precision_macro,recall_macro,f1_macro,precision_weighted,recall_weighted,f1_weighted,train_time,train_loss,eval_loss,trainable_params,total_params,description
+hybrid_attention,0.987,0.98709159340166,0.9869999999999999,0.9870065874804675,0.9870915934016601,0.987,0.9870065874804675,9750.119480609894,0.6238495814874305,0.05283896625041962,118293514,118293514,"ViT with Local + Global Attention (3 layers, window=3)"
